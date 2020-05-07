@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <title>Document!!!!!</title>
+
+</head>
+
+<body>
+
+    <h1>About "me<h1>
+
+    <h1>Dennis Williams</h1>
+
+    <p>I am 40 years old, a father of 2, (1 girl Hailye 18, and 1 boy, DennisIII, 16)</p>
+
+    <p>I am from Monroe, LA I have lived here most of my life</p>
+
+   <p>I have associate in maketing from the university of Buea</p>
+
+   <P>Growing up i always has interest in information and technology</P>
+
+
+</body>
+
+</html>
