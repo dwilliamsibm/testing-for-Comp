@@ -28,7 +28,7 @@
 
    <p>I have associate in maketing from the university of Buea</p>
 
-   <P>Growing up i always has interest in information and technology</P>
+   <P>Growing-up i always has interest in information and technology</P>
 
 
 </body>
