@@ -24,11 +24,11 @@
 
     <p>I am 40 years old, a father of 2, (1 girl Hailye 18, and 1 boy, DennisIII, 16)</p>
 
-    <p>I am from Monroe, LA I have lived here most of my life</p>
+    <p>I Live in Ruston, LA I have lived here most of my life</p>
 
    <p>I have associate in maketing from the university of Buea</p>
 
-   <P>Growing-up i always has interest in information and technology</P>
+   <P>Growing up i always has interest in information and technology</P>
 
 
 </body>
